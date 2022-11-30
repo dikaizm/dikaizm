@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi folks👋, I'm Dika</h1>
+<h3 align="center">An undergraduate data science student who interested in web development, machine learning, and data engineering.</h3>
 
-<!--
-**dikaizm/dikaizm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **JavaScript, Python, and Golang**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **dikaizm@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📄 Know about my experiences [https://www.linkedin.com/in/dikaizm/](https://www.linkedin.com/in/dikaizm/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/spacerocc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spacerocc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dikaizm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dikaizm" height="30" width="40" /></a>
+<a href="https://medium.com/@dikaizm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dikaizm" height="30" width="40" /></a>
+</p>
