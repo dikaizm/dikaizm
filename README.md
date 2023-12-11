@@ -1,7 +1,7 @@
 <h1 align="center">Hi folks👋, I'm Dika</h1>
 <h3 align="center">An undergraduate data science student who interested in web development, machine learning, and data engineering.</h3>
 
-- 🌱 **C++, Golang, JavaScript, Python, PHP**
+- 🌱 **C++, Golang, JavaScript, Python, PHP, C#, ASP.NET**
 
 - 📫 How to reach me **dikaizm@gmail.com**
 
