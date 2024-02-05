@@ -1,7 +1,7 @@
 <h1 align="center">Hi folks👋, I'm Dika</h1>
 <h3 align="center">An undergraduate data science student who interested in web development, machine learning, and data engineering.</h3>
 
-- 🌱 **C++, Golang, JavaScript, Python, PHP, C#, ASP.NET**
+- 🌱 **C++, Golang, JavaScript, TypeScript, Python, PHP, C#, ASP.NET**
 
 - 📫 How to reach me **dikaizm@gmail.com**
 
@@ -14,4 +14,4 @@
 <a href="https://medium.com/@dikaizm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dikaizm" height="30" width="40" /></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikaizm&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dikaizm&layout=compact&hide=jupyter%20notebook)
