@@ -1,5 +1,5 @@
 <h1 align="center">Hi folks👋, I'm Dika</h1>
-<h3 align="center">Web dev, machine learning, data engineering</h3>
+<h3 align="center">Web dev, machine learning</h3>
 
 - 🌱 **Golang, JavaScript, TypeScript, Python, PHP**
 
